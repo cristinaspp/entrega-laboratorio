@@ -1,0 +1,98 @@
+body {
+        margin: 0px;
+        padding: 0px;
+        background-color: #242A32;
+        font-family: 'Raleway';
+        font-size: 0.8em;
+        
+}
+
+
+h1 {
+        color: #B1BEE6;
+        
+        margin-right: 2em;
+        margin-bottom: 1em;
+
+}
+
+form {
+        border-color: #2F3644;
+        width: 100%;
+}
+
+
+label {
+        color: #B1BEE6;
+}
+        
+.formulario {
+        background-color: #2F3644;
+        padding: 50px;
+        font-size: 120%;  
+        width: 25%;
+        border:1px solid;
+        border-color:#99A6C9;
+        border-radius: 10px;
+}
+
+#rellenar {
+        border: none;
+}
+
+#submit {
+        font-size: 1em;
+        width: 100%;
+        background-color: #6C63FF;
+        padding:14px 20px;
+        font-family: 'Raleway';
+
+}
+
+#submit:hover {
+        background-color: #ACBAE1;
+}
+
+#nombre {
+        font-size: 1em;
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+}
+
+#email {
+        font-size: 1em;
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+}
+
+#password-1 {
+        font-size: 1em;
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+}
+
+#password-2 {
+        font-size: 1em;
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid white;
+        border-radius: 4px;
+        box-sizing: border-box;
+}
